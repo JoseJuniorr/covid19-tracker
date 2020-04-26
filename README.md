@@ -1,6 +1,6 @@
 # Covid-19 tracker
 
-![Covid-19 tracker](https://ibb.co/Bz05R8f)
+![Covid-19 tracker](https://www.dropbox.com/s/x00pqsnv9m8yj1d/flamboyant-noether-7c1486-netlify-app-1024x768desktop-2c75d8.jpg?dl=0)
 
 Live Server on Netlify: https://flamboyant-noether-7c1486.netlify.app
 
